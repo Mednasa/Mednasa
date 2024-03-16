@@ -20,9 +20,14 @@
  <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"> <img src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" alt="SketchUp" width="40" height="40"/> </a>
  <a href="https://lumion.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Lumion-3D-Logo-Vector.svg-.png" alt="Lumion" width="50" height="50"/> </a> 
  <a href="https://www.autodesk.com.tr/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="AutoCAD" width="70" height="50"/> </a>
- <a href="https://www.csiamerica.com/" target="_blank" rel="noreferrer"> <img src="https://insapedia.com/wp-content/uploads/2018/04/CSI-SAP2000.png" alt="AutoCAD" width="40" height="40"/> </a> 
+ <a href="https://www.csiamerica.com/" target="_blank" rel="noreferrer"> <img src="https://insapedia.com/wp-content/uploads/2018/04/CSI-SAP2000.png" alt="AutoCAD" width="40" height="40"/> </a>
+ 
  
  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="Intellij IDEA" width="40" height="40"/></a>
+ <a href="https://www.microsoft.com/tr-tr/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/ms-word-icon-512x506-wioyi8od.png" alt="Ms-Word" width="40" height="40"/> </a>
+ <a href="https://www.microsoft.com/tr-tr/microsoft-365/word" target="_blank" rel="noreferrer"> <img src="https://icons.iconarchive.com/icons/iconstoc/ms-office-2013/512/excel-icon.png" alt="Ms-Excel" width="40" height="40"/> </a>
+  <a href="https://www.rhino3d.com/" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.5266525204.2178/raf,360x360,075,t,fafafa:ca443f4786.jpg" alt="Rhino7" width="40" height="40"/> </a>
+  <a href="https://www.tekla.com/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/CNV67V3UGjqI-ruG5TImDbTAlNzLMTV5ghb0mYLPLfv7Yj3FvxOItZwxKz2s97-wBrg" alt="Tekla" width="40" height="40"/> </a> 
  
 </p>
 
