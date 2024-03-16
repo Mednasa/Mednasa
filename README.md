@@ -15,12 +15,15 @@
 <p align="left"> 
  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a> 
+ <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="50"/> </a>
+ <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" alt="TestNG" width="60" height="60"/> </a> 
  <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"> <img src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" alt="SketchUp" width="40" height="40"/> </a>
-  <a href="https://lumion.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Lumion-3D-Logo-Vector.svg-.png" alt="Lumion" width="50" height="50"/> </a> 
-  <a href="https://www.autodesk.com.tr/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="AutoCAD" width="70" height="50"/> </a> 
-
-
+ <a href="https://lumion.com/" target="_blank" rel="noreferrer"> <img src="https://vectorseek.com/wp-content/uploads/2023/11/Lumion-3D-Logo-Vector.svg-.png" alt="Lumion" width="50" height="50"/> </a> 
+ <a href="https://www.autodesk.com.tr/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="AutoCAD" width="70" height="50"/> </a>
+ <a href="https://www.csiamerica.com/" target="_blank" rel="noreferrer"> <img src="https://insapedia.com/wp-content/uploads/2018/04/CSI-SAP2000.png" alt="AutoCAD" width="40" height="40"/> </a> 
+ 
+ <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://brandslogos.com/wp-content/uploads/images/large/intellij-idea-logo.png" alt="Intellij IDEA" width="40" height="40"/></a>
+ 
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mednasa&theme=tokyonight)
