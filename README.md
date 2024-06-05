@@ -1,4 +1,4 @@
- ![MasterHead](https://www.seriousscrum.com/images/storage/prismic/YNNrTxAAACAA7rjPdcf77998-4a6a-42f4-a2cb-c753dd29152cblueredmorpheus.png)
+ ![MasterHead](https://wallpapercave.com/wp/wp7335181.jpg)
 <h1 align="center">Hi 👋, I'm Onur</h1>
 <h3 align="center">A passionate Soft Development Engineer in Test from Turkey.</h3>
 
