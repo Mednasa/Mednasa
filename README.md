@@ -19,7 +19,6 @@
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://i.pinimg.com/originals/7f/60/db/7f60db65eac12c8d02e45280dd53381a.jpg" alt="TestNG" width="45" height="45"/> </a> 
  <a href="https://www.sketchup.com/" target="_blank" rel="noreferrer"> <img src="https://www.sketchupaustralia.com.au/wp-content/uploads/SketchUp-Mark-1200pxl-RGB.png" alt="SketchUp" width="40" height="40"/> </a>
  <a href="https://lumion.com/" target="_blank" rel="noreferrer"> <img src="https://static.wixstatic.com/media/b74222_51e04b1c2d0448b3a2edf60e98d0e25b.png/v1/fill/w_250,h_250,al_c/icono_BASE_LUMION.png" alt="Lumion" width="40" height="40"/> </a> 
- <a href="https://www.autodesk.com.tr/" target="_blank" rel="noreferrer"> <img src="https://www.e-disti.com/wp-content/uploads/2016/02/autocad-logo.jpg" alt="AutoCAD" width="40" height="40"/> </a>
  <a href="https://www.csiamerica.com/" target="_blank" rel="noreferrer"> <img src="https://insapedia.com/wp-content/uploads/2018/04/CSI-SAP2000.png" alt="sap2000" width="40" height="40"/> </a>
  
  
